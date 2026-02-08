@@ -1,0 +1,8 @@
+{
+  "name": "Smart AR Campus Navigation - Avanthi's St. Theresa Institute of Engineering and Technology",
+  "description": "An advanced AR-based navigation system for Avanthi's St. Theresa Institute of Engineering and Technology, featuring real-time tracking, 3D guidance, and voice assistance.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
